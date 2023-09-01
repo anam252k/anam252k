@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Python,Flask,Django,MySQL,HTML&CSS**
+- 💬 Ask me about **Python,Flask, Django,MySQL, HTML&CSS**
 
 - 📫 How to reach me **armineducation10@gmail.com**
 
@@ -24,7 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anam252k&show_icons=true&locale=en" alt="anam252k" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anam252k&" alt="anam252k" /></p>
 
 
 
