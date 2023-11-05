@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Education Navigator**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Python Libraries**
 
 - 💬 Ask me about **Python,Flask, Django,MySQL, HTML&CSS**
 
