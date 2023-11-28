@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anam252k&label=Profile%20views&color=0e75b6&style=flat" alt="anam252k" /> </p>
 
-- 🔭 I’m currently working on **Education Navigator**
+- 🔭 I’m currently working on **NEET Counselor**
 
-- 🌱 I’m currently learning **Python Libraries**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **Python,Flask, Django,MySQL, HTML&CSS**
 
