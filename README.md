@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anam252k&label=Profile%20views&color=0e75b6&style=flat" alt="anam252k" /> </p>
 
-- 🔭 I’m currently working on **NEET Counselor**
+- 🔭 I’m currently working on **ET_manage**
 
 - 🌱 I’m currently learning **Angular**
 
